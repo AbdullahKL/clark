@@ -13618,7 +13618,8 @@ textarea.form-control {
   color: #ffbd39;
   font-size: 30px
 }
-
+.h-35{    height: 35%!important;
+}
 .contact-section .box h3 {
   font-size: 17px;
   font-weight: 500;
